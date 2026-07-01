@@ -1,12 +1,12 @@
 {
-  "title": "Ultimate Fantastic Four #21",
+  "title": "Ultimate Fantastic Four",
   "description": "",
   "artist": "",
   "author": "",
   "chapters": {
-    "1": {
+    "21": {
       "title": "#21",
-      "volume": "Ultimate Fantastic Four",
+      "volume": "1",
       "last_updated": 1750000000,
       "groups": {
         "": [
@@ -32,8 +32,7 @@
           "19.jpg",
           "20.jpg",
           "21.jpg",
-          "22.jpg",
-          "23.jpg",
+          "22-23.jpg",
           "24.jpg"
         ]
       }
